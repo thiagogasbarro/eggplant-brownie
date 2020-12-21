@@ -7,3 +7,7 @@
 * Implementação de tableViewController
 * Herenças de classe
 * Utilização do navigation controller
+* Utilização de padrões de API Apple
+*Delegates
+*Criar tableView personalizada
+*Adicionar eventos de click na tableView
